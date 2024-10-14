@@ -1,0 +1,5 @@
+/training_checkpoints
+/data
+/application_data
+siamese_model_2.h5
+siamese_model.h5
