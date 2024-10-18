@@ -169,7 +169,7 @@ For testing, images from the test dataset were passed into the model. For exampl
 
 ![Siamese Summary](./assets/test_dataset.png "Siamese Summary")
 
-A picture of myself and me was fed into the model, which correctly predicted them as dissimilar (output = 1)
+A picture of myself and me was fed into the model, which correctly predicted them as similar (output = 1)
 ![Siamese Summary](./assets/similar_image.png "Siamese Summary")
 
 A picture of myself and me(with headset) was fed into the model, which does not correctly predicted me (output = 0)
